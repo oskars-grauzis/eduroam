@@ -1,0 +1,82 @@
+wpa_supplicant -i wlan0 -c /etc/wpa_supplicant/wpa_supplicant.conf
+if up wlan0; ;
+ifconfig up wlan0
+ifup wlan0
+suo wpa_supplicant -i wlan0 -c /etc/wpa_supplicant/wpa_supplicant.conf
+sudo wpa_supplicant -i wlan0 -c /etc/wpa_supplicant/wpa_supplicant.conf
+ifup wlan0
+sudo ifup wlan0
+sudp ifup wlan0
+sudo ifup wlan0
+ip a
+sudo ifup wlan0
+sudo nano /etc/network/interfaces
+sudo ifup wlan0
+ip a
+sudo ifdown wlan
+sudo ifup wlan0
+ip a
+sudo ifup wlan0 &
+pgrep ifup
+ip a
+kill 1471
+sudo kill 1471
+ip aclear
+ip a
+pgrep ifup
+sudo kill 1471
+clear
+sudo nano /etc/network/interfaces
+sudo ifup wlan0
+ip a
+sudo ifdown wlan0
+sudo ifup wlan0
+sudo nano /etc/network/interfaces
+sudo ifdown wlan0
+sudo ifup wlan0
+sudo nano /etc/network/interfaces
+sudo ifup wlan0
+sudo wpa_supplicant -i wlan0 -c /etc/wpa_supplicant/wpa_supplicant.conf
+sudo nano /etc/network/interfaces
+sudo ifup wlan0
+ip a
+sudo ifup wlan0
+sudo nano /etc/network/interfaces
+sudo ifup wlan0
+sudo ifdown wlan0
+sudo nano /etc/network/interfaces
+sudo wpa_supplicant -i wlan0 -c /etc/wpa_supplicant/wpa_supplicant.conf/etc/wpa_supplicant/wpa_supplicant.conf
+sudo nano /etc/network/interfaces
+sudo ifup wlan0
+systemctl
+ip link
+sudo nano /etc/network/interfaces
+sudo ifup wlan0
+sudo nano /etc/network/interfaces
+sudo ifup wlan0
+sudo nano /etc/network/interfaces
+sudo ifup wlan0
+sudo wpa_supplicant -i wlan0 -c /etc/wpa_supplicant/wpa_supplicant.conf/etc/wpa_supplicant/wpa_supplicant.conf &
+sudo wpa_supplicant -i wlan0 -c /etc/wpa_supplicant/wpa_supplicant.conf &sudo wpa_supplicant -i wlan0 -c /etc/wpa_supplicant/wpa_supplicant.conf &
+
+clear
+sudo ifup wlan0
+dhcpclient wlan0
+dhclient wlan0
+ip a
+sudo dhclient wlan0
+ip a
+ping google.lc
+ping google.lv
+ifconfig wlan0ifconfig wlan0
+ping google.com
+sudo su -
+clear
+sudo nano /etc/network/interfaces
+sudo ifup wlan0
+cat /etc/wpa_supplicant/wpa_supplicant.conf 
+clear
+sudo nano /etc/network/interfaces
+clear
+sudo nano /etc/network/interfaces
+sudo ifup wlan0
